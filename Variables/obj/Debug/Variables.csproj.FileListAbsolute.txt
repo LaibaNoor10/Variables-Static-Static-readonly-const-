@@ -1,0 +1,8 @@
+C:\Users\HP\source\VISUAL_STUDIO[INVIA]\Assignments\Assignment1\Variables\bin\Debug\Variables.exe.config
+C:\Users\HP\source\VISUAL_STUDIO[INVIA]\Assignments\Assignment1\Variables\bin\Debug\Variables.exe
+C:\Users\HP\source\VISUAL_STUDIO[INVIA]\Assignments\Assignment1\Variables\bin\Debug\Variables.pdb
+C:\Users\HP\source\VISUAL_STUDIO[INVIA]\Assignments\Assignment1\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\HP\source\VISUAL_STUDIO[INVIA]\Assignments\Assignment1\Variables\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\VISUAL_STUDIO[INVIA]\Assignments\Assignment1\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\VISUAL_STUDIO[INVIA]\Assignments\Assignment1\Variables\obj\Debug\Variables.exe
+C:\Users\HP\source\VISUAL_STUDIO[INVIA]\Assignments\Assignment1\Variables\obj\Debug\Variables.pdb
